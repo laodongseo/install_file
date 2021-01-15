@@ -5,6 +5,11 @@ pip install schedule -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install apscheduler -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pymysql -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+pip install openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install tld -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install xlrd==1.2.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 pip freeze > <目录>/requirements.txt
  pip install -r requirements.txt
