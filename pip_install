@@ -1,10 +1,10 @@
 pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pyquery -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install requests -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
-pip install schedule -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install apscheduler -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pymysql -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+pip install schedule -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install tld -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
